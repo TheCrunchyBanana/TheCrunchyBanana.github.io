@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: thecrunchybanana.github.io
+Token: ec65c3e217a96eb42b109ab9382dc7fa4e4e9e12f71ed828e917d3249d4ebb48
